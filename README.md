@@ -89,7 +89,7 @@ A privacy-preserving, edge-deployed machine learning system for early detection 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/diabetic-retinopathy-detection.git
+git clone https://github.com/dipto1030/diabetic-retinopathy-detection.git
 cd diabetic-retinopathy-detection
 
 # Install dependencies
@@ -188,7 +188,7 @@ Privacy:
 
 ## 📝 License
 
-[Add your license here]
+I guess none? i have no idea how licence works...so use it as you like :)
 
 ## 🤝 Contributing
 
